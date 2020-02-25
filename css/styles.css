@@ -90,7 +90,7 @@ h1 {
 #contact {
     padding-top: 100px;
     margin-bottom: 50px;
-    background-image: url('../Images/backgrounds/assets/backgrounds/c_image.jpg');
+    background-image: url(../Images/backgrounds/assets/backgrounds/c_image.jpg);
     background-size: cover;
     background-position: cover;
     width: 100%;
