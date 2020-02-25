@@ -70,5 +70,5 @@ $("button").onClick(function () {
         }
         else{
           alert(name + "afafdadda");
-        }
-      }
+        };
+      };
