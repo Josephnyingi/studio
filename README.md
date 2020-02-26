@@ -17,7 +17,7 @@ There are no known bugs
 ## Technologies Used
 Technologies used are HTML, CSS(bootstrap) and JavaScript (jQuery)
 ## Support and contact details
-Link to live site https://github.com/Josephnyingi/studio
+Link to live site https://josephnyingi.github.io/studio/
 phone contacts: 0708171881
 ### License
 License
